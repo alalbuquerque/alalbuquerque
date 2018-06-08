@@ -11,22 +11,22 @@ author: Amanda Albuquerque
 language:
 timezone:
 about : {
-  name : "Manish Kumar Khedawat",
-  intro1 : "Full Stack Developer, Bosch",
-  intro2 : "Alumni'14, IIT Kharagpur",
-  linkedin : "https://in.linkedin.com/in/mkkhedawat",
-  facebook : "https://www.facebook.com/mkkhedawat",
-  twitter : "https://twitter.com/mkkhedawat",
-  instagram : "https://www.instagram.com/mkkhedawat/",
-  email : "writetomansa@gmail.com",
-  github : "https://github.com/mkkhedawat",
-  stackoverflow : "https://stackoverflow.com/users/1608029/mkkhedawat",
-  sourceforge : "https://sourceforge.net/u/mkkhedawat/profile/"
+  name : "Amanda Albuquerque",
+  intro1 : "Software Engineer, SP - Brasil",
+  #  intro2 : "",
+  linkedin : "https://in.linkedin.com/in/alalbuquerque",
+  #  facebook : "https://www.facebook.com/",
+  twitter : "https://twitter.com/alalbuquerque_",
+  instagram : "https://www.instagram.com/alalbuquerque_/",
+  #  email : "@gmail.com",
+  github : "https://github.com/alalbuquerque",
+  #  stackoverflow : "https://stackoverflow.com/",
+
 }
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://alalbuquerque.github.com/blog
+url: https://github.com/alalbuquerque/alalbuquerque.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -95,4 +95,4 @@ prism_plugin:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/alalbuquerque/alalbuquerque.github.io
+  repo: git@github.com:alalbuquerque/alalbuquerque.git
